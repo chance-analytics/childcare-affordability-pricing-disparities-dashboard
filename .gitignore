@@ -19,3 +19,9 @@ venv/
 # --- OS / Editor ---
 .DS_Store
 .vscode/
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+
